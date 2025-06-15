@@ -14,7 +14,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-![Avance de Cursos](./avance_cursos_platzi.png)
+![Avance de Cursos](./grafica.png)
 
 ## Vias de contacto
 
